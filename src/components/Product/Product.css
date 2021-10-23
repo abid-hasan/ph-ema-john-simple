@@ -10,6 +10,10 @@
     font-weight: normal;
 }
 
+.product-description {
+    padding-left: 30px;
+}
+
 .btn-regular {
     background-color: goldenrod;
     width: 150px;
