@@ -19,3 +19,7 @@
     font-weight: bold;
     cursor: pointer;
 }
+
+.fa-icon {
+    padding-right: 5px;
+}
