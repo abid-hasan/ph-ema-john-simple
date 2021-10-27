@@ -24,6 +24,6 @@
     cursor: pointer;
 }
 
-.fa-icon {
-    padding-right: 5px;
+.full-star {
+    color: goldenrod;
 }
